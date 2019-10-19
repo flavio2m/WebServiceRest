@@ -1,7 +1,9 @@
 # WebServiceRest
-WebService com Python + Django + REST framework
+WebService com Django Rest Framework
 
-Este projeto tem como objetivo fornecer um webservice simples para possibilitar o desenvolvimento de um App no Android Studio. 
+Este projeto tem como objetivo fornecer um webservice simples para possibilitar o desenvolvimento de um App no Android Studio com comunicação com webservice. 
+
+Foi utilizado o Django Rest Framework (DRF) que é uma biblioteca para o Framework Django que disponibiliza funcionalidades para implementar APIs Rest de forma extremamente rápida pois com poucas linhas a API já estará funcionando. 
 
 A construção desse projeto foi baseado no excelente material disponibilizado por Gregory Pacheco no youtube: "Django Rest Framework em 30 minutos ( ou quase isso )" <https://www.youtube.com/watch?v=gFsIGJR5R8I> e no artigo disponibilizado por Marcos Rabaioli "Criando Uma API Rest Utilizando Django Rest Framework — Parte 1" <https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa>.
 
