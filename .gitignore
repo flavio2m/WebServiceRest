@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+venv
+WebServiceRest/db.sqlite3
+WebServiceRest/static
+.DS_Store
